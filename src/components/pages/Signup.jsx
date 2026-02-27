@@ -1,9 +1,11 @@
 import Button from "../Button";
 import CheckBox from "../CheckBox";
-import classes from "../styles/Signup.module.css";
 import Form from "../Form";
 import Illustration from "../Illustration";
+import classes from "../styles/Signup.module.css";
 import TextInput from "../TextInput";
+
+import signupImage from "../../assets/images/signup.svg";
 
 export default function Signup() {
   return (
@@ -11,7 +13,7 @@ export default function Signup() {
       <h1>Create an account</h1>
 
       <div className="column">
-        <Illustration />
+        <Illustration imageSrc={signupImage} />
         <Form className={classes.signup}>
           <TextInput
             type="text"
@@ -39,9 +41,7 @@ export default function Signup() {
 
           <CheckBox text="I agree to the Terms & Conditions"></CheckBox>
 
-          <Button type="submit">
-            Submit Now
-          </Button>
+          <Button type="submit">Submit Now</Button>
           <div className="info">
             Already have an account? <a href="login.html">Login</a> instead.
           </div>
