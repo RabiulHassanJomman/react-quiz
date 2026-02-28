@@ -28,7 +28,7 @@ export default function Login() {
           ></TextInput>
 
           <Button>
-            <span>Submit now</span>
+            <span>Log in</span>
           </Button>
 
           <div className="info">
