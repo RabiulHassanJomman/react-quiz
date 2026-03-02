@@ -11,8 +11,7 @@ import "../firebase";
 
 const AuthContext = React.createContext();
 
-// eslint-disable-next-line react-refresh/only-export-components
-export function useAuth() {
+export function UseAuth() {
   return useContext(AuthContext);
 }
 
@@ -33,11 +32,15 @@ export function AuthProvider({ children }) {
   //signup function
   async function signup(email, password, username) {
     const auth = getAuth();
-    const userCredential = await createUserWithEmailAndPassword(auth, email, password);
+    const userCredential = await createUserWithEmailAndPassword(
+      auth,
+      email,
+      password,
+    );
 
-    //update profile
-    await updateProfile(userCredential.currentUser, { displayName: username });
-    const user = userCredential.currentUser;
+    // update profile on the created user object
+    const user = userCredential.user;
+    await updateProfile(user, { displayName: username });
     setCurrentUser({ ...user });
   }
 

@@ -4,7 +4,7 @@ import classes from "../components/styles/Video.module.css";
 export default function Video() {
   return (
     <div className={classes.video}>
-      <img src={image} alt="" srcset="" />
+      <img src={image} alt="" />
       <p>#23 React Hooks Bangla - React useReducer hook Bangla</p>
       <div className={classes.qmeta}>
         <p>10 Questions</p>

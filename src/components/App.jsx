@@ -1,4 +1,5 @@
 import "../components/styles/app.css";
+import { AuthProvider } from "../contexts/AuthContext";
 import Layout from "./Layout";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
@@ -12,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <useAuth>
+        <AuthProvider>
           <Layout>
             <Routes>
               <Route path="/" element={<Home />} />
@@ -22,7 +23,7 @@ function App() {
               <Route path="/result" element={<Result />} />
             </Routes>
           </Layout>
-        </useAuth>
+        </AuthProvider>
       </Router>
     </div>
   );
