@@ -6,6 +6,8 @@ import Login from "./pages/Login";
 import Quiz from "./pages/Quiz";
 import Result from "./pages/Result";
 import Signup from "./pages/Signup";
+import PrivateRoute from "./PrivateRoute";
+import PublicRoute from "./PublicRoute";
 
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
@@ -16,11 +18,38 @@ function App() {
         <AuthProvider>
           <Layout>
             <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/login" element={<Login />} />
-              <Route path="/signup" element={<Signup />} />
-              <Route path="/quiz" element={<Quiz />} />
-              <Route path="/result" element={<Result />} />
+              <Route path="/" element={<Home />} /><Route
+                path="/login"
+                element={
+                  <PublicRoute>
+                    <Login />
+                  </PublicRoute>
+                }
+              />
+              <Route
+                path="/signup"
+                element={
+                  <PublicRoute>
+                    <Signup />
+                  </PublicRoute>
+                }
+              />
+              <Route
+                path="/quiz"
+                element={
+                  <PrivateRoute>
+                    <Quiz />
+                  </PrivateRoute>
+                }
+              />
+              <Route
+                path="/result"
+                element={
+                  <PrivateRoute>
+                    <Result />
+                  </PrivateRoute>
+                }
+              ></Route>
             </Routes>
           </Layout>
         </AuthProvider>
