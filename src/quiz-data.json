@@ -1,0 +1,5552 @@
+{
+  "videos": {
+    "1": {
+      "youtubeID": "5Xy-t8k_M4A",
+      "title": "What is React and How it works - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "2": {
+      "youtubeID": "2C5834qx0sA",
+      "title": "React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "3": {
+      "youtubeID": "ii8GaRjRoNI",
+      "title": "[Deprecated] ESLint, Formatting with Prettier & Project Setup - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "4": {
+      "youtubeID": "DOC3MyuuWhM",
+      "title": "How to install React in 2023 - new react.dev Website",
+      "num_of_ques": 3
+    },
+    "5": {
+      "youtubeID": "-oGMwOOHFyk",
+      "title": "#4 React Prerequisites - React শিখতে কি কি জানা প্রয়োজন - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "6": {
+      "youtubeID": "Uj-Bt0pWEP4",
+      "title": "#5 React JSX Element & Rendering Elements - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "7": {
+      "youtubeID": "xVx5VqfX75Q",
+      "title": "#6 React Components and Props Core Concept - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "8": {
+      "youtubeID": "CzyspyBe7rk",
+      "title": "#7 React State & Lifecycle in Class Component - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "9": {
+      "youtubeID": "QLxjMwVu0xY",
+      "title": "#8 React Event Handling & Control Re Rendering - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "10": {
+      "youtubeID": "k_q-SCeYLJU",
+      "title": "#9 React Conditional Rendering, List and Keys - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "11": {
+      "youtubeID": "hbLTt10nhOA",
+      "title": "#10 React Form Handling - Controlled vs Uncontrolled Component- React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "12": {
+      "youtubeID": "v7UpjUQJjWY",
+      "title": "#11 React Lifting State Up - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "13": {
+      "youtubeID": "X0L0oHli4Ss",
+      "title": "#12 React Composition vs Inheritance - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "14": {
+      "youtubeID": "Tz1JhhWlJvA",
+      "title": "#13 React Higher Order Components (HOC) - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "15": {
+      "youtubeID": "_cXDtc4Mjqo",
+      "title": "#14 React Render Props - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "16": {
+      "youtubeID": "dl3oo2YFYac",
+      "title": "#15 React Context API - What is Context API - Why Context API - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "17": {
+      "youtubeID": "uNGzqgeFQZc",
+      "title": "#16 React Context API - How to use React Context API - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "18": {
+      "youtubeID": "ibka_018IFI",
+      "title": "#17 React Context API - contextType & useContext hook - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "19": {
+      "youtubeID": "HHttzJuecas",
+      "title": "#18 React Hooks Bangla - What is React Hook - React Hook Introduction - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "20": {
+      "youtubeID": "6tni9ZhMcPM",
+      "title": "#19 React Hooks Bangla - React useState hook Bangla - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "21": {
+      "youtubeID": "vVwCyii5GJk",
+      "title": "#20 React Hooks Bangla - React useEffect hook Bangla - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "22": {
+      "youtubeID": "iZHNf6MXhFM",
+      "title": "#21 React Hooks Bangla - React useCallback & useMemo hook Bangla - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "23": {
+      "youtubeID": "sXkyogEPiqQ",
+      "title": "#22 React Hooks Bangla - React useRef hook Bangla - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "24": {
+      "youtubeID": "BNB-Q5yI-_o",
+      "title": "#23 React Hooks Bangla - React useReducer hook Bangla - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "25": {
+      "youtubeID": "CALpSpnlef0",
+      "title": "#24 React Hooks Bangla - React custom hook Bangla Tutorial - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "26": {
+      "youtubeID": "WUBBGU-IILw",
+      "title": "#25 Styling React Components - Stylesheets Inline Style & CSS Modules - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "27": {
+      "youtubeID": "RqwnR2osQqc",
+      "title": "#26 React Styled Components Tutorial - React Styling - CSS in JS - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "28": {
+      "youtubeID": "vOdW8JsmB5c",
+      "title": "#27 [Deprecated] React Router DOM Complete Guide - React Tutorial Bangla Series",
+      "num_of_ques": 3
+    },
+    "29": {
+      "youtubeID": "W3zMJxCUJAA",
+      "title": "#28 React Project Tutorial - Quiz Application with Firebase - Part 1",
+      "num_of_ques": 3
+    },
+    "30": {
+      "youtubeID": "BIsKWtNmFs0",
+      "title": "#29 React Project Tutorial - Quiz Application with Firebase - Part 2",
+      "num_of_ques": 3
+    },
+    "31": {
+      "youtubeID": "KkF0xaMFoJY",
+      "title": "#30 React Project Tutorial - Quiz Application with Firebase - Part 3",
+      "num_of_ques": 3
+    },
+    "32": {
+      "youtubeID": "xuhlsOVVfks",
+      "title": "#31 React Project Tutorial - Quiz Application with Firebase - Part 4",
+      "num_of_ques": 3
+    },
+    "33": {
+      "youtubeID": "S27o8rIy3dk",
+      "title": "#32 React Project Tutorial - Quiz Application with Firebase - Part 5",
+      "num_of_ques": 3
+    },
+    "34": {
+      "youtubeID": "wGBOvtLixCU",
+      "title": "#33 React Project Tutorial - Quiz Application with Firebase - Part 6",
+      "num_of_ques": 3
+    },
+    "35": {
+      "youtubeID": "YTQYTkrEU9M",
+      "title": "#34 React Project Tutorial - Quiz Application with Firebase - Part 7",
+      "num_of_ques": 3
+    },
+    "36": {
+      "youtubeID": "QztelPPR0-0",
+      "title": "#35 React Project Tutorial - Quiz Application with Firebase - Part 8",
+      "num_of_ques": 3
+    },
+    "37": {
+      "youtubeID": "4E1BGGhoInY",
+      "title": "#36 React Project Tutorial - Quiz Application with Firebase - Part 9",
+      "num_of_ques": 3
+    },
+    "38": {
+      "youtubeID": "0pdBa8dVqNQ",
+      "title": "#37 React Project Tutorial - Quiz Application with Firebase - Part 10",
+      "num_of_ques": 3
+    },
+    "39": {
+      "youtubeID": "IeFpqc0I-fk",
+      "title": "#38 React Project Tutorial - Quiz Application with Firebase - Part 11",
+      "num_of_ques": 3
+    },
+    "40": {
+      "youtubeID": "jCZrhX3zKHk",
+      "title": "#39 React Project Tutorial - Quiz Application with Firebase - Part 12",
+      "num_of_ques": 3
+    },
+    "41": {
+      "youtubeID": "KcSgAFZqIK0",
+      "title": "#40 React Project Tutorial - Quiz Application with Firebase - Part 13",
+      "num_of_ques": 3
+    },
+    "42": {
+      "youtubeID": "fdG2pq5hQYY",
+      "title": "#41 React Project Tutorial - Quiz Application with Firebase - Part 14",
+      "num_of_ques": 3
+    },
+    "43": {
+      "youtubeID": "ngXw9L-j9AI",
+      "title": "#42 React Project Tutorial - Quiz Application with Firebase - Part 15",
+      "num_of_ques": 3
+    },
+    "44": {
+      "youtubeID": "apU72laFS68",
+      "title": "#43 React Project Tutorial - Quiz Application with Firebase - Part 16",
+      "num_of_ques": 3
+    },
+    "45": {
+      "youtubeID": "Zxi30kuC42k",
+      "title": "#44 React Project Tutorial - Quiz Application with Firebase - Part 17",
+      "num_of_ques": 3
+    },
+    "46": {
+      "youtubeID": "34tjWL9wi4g",
+      "title": "#45 React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "num_of_ques": 3
+    },
+    "47": {
+      "youtubeID": "99RWZsEITx4",
+      "title": "#46 React Router v6 Private Route Tutorial",
+      "num_of_ques": 3
+    },
+    "48": {
+      "youtubeID": "K8pzpxfES4U",
+      "title": "React 18 new features - What's new in React",
+      "num_of_ques": 3
+    },
+    "49": {
+      "youtubeID": "6O4s7v28nlw",
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "num_of_ques": 3
+    },
+    "50": {
+      "youtubeID": "7exOfIAKuWU",
+      "title": "4 ways to fetch fetch data from API in React (Bangla) | fetch axios swr and react-query",
+      "num_of_ques": 3
+    },
+    "51": {
+      "youtubeID": "oeYnAFrAuVQ",
+      "title": "Master React State Management with Preact Signals | Step-by-Step Tutorial",
+      "num_of_ques": 3
+    },
+    "52": {
+      "youtubeID": "GHriWlXHiwE",
+      "title": "React Developer Roadmap 2024 - Beginner to Advanced",
+      "num_of_ques": 3
+    },
+    "53": {
+      "youtubeID": "-AtfFUeeuIs",
+      "title": "React 19 new Features - What's new in React 19",
+      "num_of_ques": 3
+    },
+    "54": {
+      "youtubeID": "qhll3DXuLHI",
+      "title": "React Redux Crash Course Bangla with Redux Toolkit",
+      "num_of_ques": 3
+    },
+    "55": {
+      "youtubeID": "SQxJRPQK0KI",
+      "title": "Importance of legacy React.js code in Job Market",
+      "num_of_ques": 3
+    },
+    "56": {
+      "youtubeID": "XV_AfYgzx6g",
+      "title": "Reactive Accelerator - Batch 2 - Bangla React and Next.js course by Learn with Sumit",
+      "num_of_ques": 3
+    }
+  },
+  "quiz": {
+    "5Xy-t8k_M4A": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "2C5834qx0sA": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "ii8GaRjRoNI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "DOC3MyuuWhM": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "-oGMwOOHFyk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "Uj-Bt0pWEP4": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "xVx5VqfX75Q": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "CzyspyBe7rk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "QLxjMwVu0xY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "k_q-SCeYLJU": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "hbLTt10nhOA": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "v7UpjUQJjWY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "X0L0oHli4Ss": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "Tz1JhhWlJvA": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "_cXDtc4Mjqo": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "dl3oo2YFYac": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "uNGzqgeFQZc": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "ibka_018IFI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "HHttzJuecas": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "6tni9ZhMcPM": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "vVwCyii5GJk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "iZHNf6MXhFM": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "sXkyogEPiqQ": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "BNB-Q5yI-_o": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "CALpSpnlef0": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "WUBBGU-IILw": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "RqwnR2osQqc": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "vOdW8JsmB5c": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "W3zMJxCUJAA": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "BIsKWtNmFs0": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "KkF0xaMFoJY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "xuhlsOVVfks": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "S27o8rIy3dk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "wGBOvtLixCU": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "YTQYTkrEU9M": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "QztelPPR0-0": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "4E1BGGhoInY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "0pdBa8dVqNQ": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "IeFpqc0I-fk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "jCZrhX3zKHk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "KcSgAFZqIK0": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "fdG2pq5hQYY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "ngXw9L-j9AI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "apU72laFS68": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "Zxi30kuC42k": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "34tjWL9wi4g": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "99RWZsEITx4": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "K8pzpxfES4U": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "6O4s7v28nlw": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "7exOfIAKuWU": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "oeYnAFrAuVQ": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "GHriWlXHiwE": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "-AtfFUeeuIs": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "qhll3DXuLHI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "SQxJRPQK0KI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    },
+    "XV_AfYgzx6g": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla"
+            },
+            {
+              "title": "English"
+            },
+            {
+              "title": "Hindi"
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "answers": {
+    "5Xy-t8k_M4A": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "2C5834qx0sA": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "ii8GaRjRoNI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "DOC3MyuuWhM": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "-oGMwOOHFyk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "Uj-Bt0pWEP4": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "xVx5VqfX75Q": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "CzyspyBe7rk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "QLxjMwVu0xY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "k_q-SCeYLJU": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "hbLTt10nhOA": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "v7UpjUQJjWY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "X0L0oHli4Ss": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "Tz1JhhWlJvA": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "_cXDtc4Mjqo": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "dl3oo2YFYac": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "uNGzqgeFQZc": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "ibka_018IFI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "HHttzJuecas": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "6tni9ZhMcPM": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "vVwCyii5GJk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "iZHNf6MXhFM": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "sXkyogEPiqQ": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "BNB-Q5yI-_o": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "CALpSpnlef0": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "WUBBGU-IILw": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "RqwnR2osQqc": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "vOdW8JsmB5c": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "W3zMJxCUJAA": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "BIsKWtNmFs0": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "KkF0xaMFoJY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "xuhlsOVVfks": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "S27o8rIy3dk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "wGBOvtLixCU": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "YTQYTkrEU9M": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "QztelPPR0-0": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "4E1BGGhoInY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "0pdBa8dVqNQ": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "IeFpqc0I-fk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "jCZrhX3zKHk": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "KcSgAFZqIK0": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "fdG2pq5hQYY": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "ngXw9L-j9AI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "apU72laFS68": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "Zxi30kuC42k": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "34tjWL9wi4g": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "99RWZsEITx4": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "K8pzpxfES4U": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "6O4s7v28nlw": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "7exOfIAKuWU": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "oeYnAFrAuVQ": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "GHriWlXHiwE": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "-AtfFUeeuIs": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "qhll3DXuLHI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "SQxJRPQK0KI": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    },
+    "XV_AfYgzx6g": {
+      "questions": [
+        {
+          "title": "Is this video from the 'React JS Tutorial Bangla Series for Beginners | Think in a React way' playlist?",
+          "options": [
+            {
+              "title": "Yes",
+              "correct": true
+            },
+            {
+              "title": "No",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "What is the primary language used in this tutorial video?",
+          "options": [
+            {
+              "title": "Bangla",
+              "correct": true
+            },
+            {
+              "title": "English",
+              "correct": false
+            },
+            {
+              "title": "Hindi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit",
+              "correct": true
+            },
+            {
+              "title": "FreeCodeCamp",
+              "correct": false
+            },
+            {
+              "title": "Traversy Media",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

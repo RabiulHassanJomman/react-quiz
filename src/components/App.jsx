@@ -1,20 +1,11 @@
 import "../components/styles/app.css";
-import { AuthProvider } from "../contexts/AuthContext";
-import Layout from "./Layout";
-import Home from "./pages/Home";
-import Login from "./pages/Login";
-import Quiz from "./pages/Quiz";
-import Result from "./pages/Result";
-import Signup from "./pages/Signup";
-import PrivateRoute from "./PrivateRoute";
-import PublicRoute from "./PublicRoute";
 
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import FetchPost from "./FetchPost";
 
 function App() {
   return (
     <div className="App">
-      <Router>
+      {/* <Router>
         <AuthProvider>
           <Layout>
             <Routes>
@@ -53,7 +44,10 @@ function App() {
             </Routes>
           </Layout>
         </AuthProvider>
-      </Router>
+      </Router> */}
+
+      {/* <InfiniteScroll/> */}
+      <FetchPost />
     </div>
   );
 }

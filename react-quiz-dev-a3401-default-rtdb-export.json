@@ -1,0 +1,221 @@
+{
+  "posts": [
+    null,
+    {
+      "content": "A beginner-friendly introduction to useState and useEffect.",
+      "createdAt": "2026-01-01T10:00:00Z",
+      "id": "1",
+      "title": "Understanding React Hooks"
+    },
+    {
+      "content": "Closures allow functions to access variables from outer scopes.",
+      "createdAt": "2026-01-02T10:00:00Z",
+      "id": "2",
+      "title": "JavaScript Closures Explained"
+    },
+    {
+      "content": "Handling asynchronous code in modern JavaScript.",
+      "createdAt": "2026-01-03T10:00:00Z",
+      "id": "3",
+      "title": "Async Await Deep Dive"
+    },
+    {
+      "content": "Learn how to build responsive layouts using flexbox.",
+      "createdAt": "2026-01-04T10:00:00Z",
+      "id": "4",
+      "title": "CSS Flexbox Guide"
+    },
+    {
+      "content": "Create complex grid layouts with ease.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "id": "5",
+      "title": "CSS Grid Mastery"
+    },
+    {
+      "content": "Introduction to backend development with Node.js.",
+      "createdAt": "2026-01-06T10:00:00Z",
+      "id": "6",
+      "title": "Node.js Basics"
+    },
+    {
+      "content": "Understanding routing in Express applications.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "id": "7",
+      "title": "Express.js Routing"
+    },
+    {
+      "content": "Learn how to perform basic database operations.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "id": "8",
+      "title": "MongoDB CRUD Operations"
+    },
+    {
+      "content": "How REST architecture works in web development.",
+      "createdAt": "2026-01-09T10:00:00Z",
+      "id": "9",
+      "title": "Understanding REST APIs"
+    },
+    {
+      "content": "Secure your APIs using JSON Web Tokens.",
+      "createdAt": "2026-01-10T10:00:00Z",
+      "id": "10",
+      "title": "Authentication with JWT"
+    },
+    {
+      "content": "Tips to avoid unnecessary re-renders.",
+      "createdAt": "2026-01-11T10:00:00Z",
+      "id": "11",
+      "title": "React Performance Optimization"
+    },
+    {
+      "content": "Step-by-step guide to implement infinite scrolling.",
+      "createdAt": "2026-01-12T10:00:00Z",
+      "id": "12",
+      "title": "Building Infinite Scroll"
+    },
+    {
+      "content": "A beginner-friendly introduction to useState and useEffect.",
+      "createdAt": "2026-01-01T10:00:00Z",
+      "id": "13",
+      "title": "Understanding React Hooks"
+    },
+    {
+      "content": "Closures allow functions to access variables from outer scopes.",
+      "createdAt": "2026-01-02T10:00:00Z",
+      "id": "14",
+      "title": "JavaScript Closures Explained"
+    },
+    {
+      "content": "Handling asynchronous code in modern JavaScript.",
+      "createdAt": "2026-01-03T10:00:00Z",
+      "id": "15",
+      "title": "Async Await Deep Dive"
+    },
+    {
+      "content": "Learn how to build responsive layouts using flexbox.",
+      "createdAt": "2026-01-04T10:00:00Z",
+      "id": "16",
+      "title": "CSS Flexbox Guide"
+    },
+    {
+      "content": "Create complex grid layouts with ease.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "id": "17",
+      "title": "CSS Grid Mastery"
+    },
+    {
+      "content": "Introduction to backend development with Node.js.",
+      "createdAt": "2026-01-06T10:00:00Z",
+      "id": "18",
+      "title": "Node.js Basics"
+    },
+    {
+      "content": "Understanding routing in Express applications.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "id": "19",
+      "title": "Express.js Routing"
+    },
+    {
+      "content": "Learn how to perform basic database operations.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "id": "20",
+      "title": "MongoDB CRUD Operations"
+    },
+    {
+      "content": "How REST architecture works in web development.",
+      "createdAt": "2026-01-09T10:00:00Z",
+      "id": "21",
+      "title": "Understanding REST APIs"
+    },
+    {
+      "content": "Secure your APIs using JSON Web Tokens.",
+      "createdAt": "2026-01-10T10:00:00Z",
+      "id": "22",
+      "title": "Authentication with JWT"
+    },
+    {
+      "content": "Tips to avoid unnecessary re-renders.",
+      "createdAt": "2026-01-11T10:00:00Z",
+      "id": "23",
+      "title": "React Performance Optimization"
+    },
+    {
+      "content": "Step-by-step guide to implement infinite scrolling.",
+      "createdAt": "2026-01-12T10:00:00Z",
+      "id": "24",
+      "title": "Building Infinite Scroll"
+    },
+    {
+      "content": "A beginner-friendly introduction to useState and useEffect.",
+      "createdAt": "2026-01-01T10:00:00Z",
+      "id": "25",
+      "title": "Understanding React Hooks"
+    },
+    {
+      "content": "Closures allow functions to access variables from outer scopes.",
+      "createdAt": "2026-01-02T10:00:00Z",
+      "id": "26",
+      "title": "JavaScript Closures Explained"
+    },
+    {
+      "content": "Handling asynchronous code in modern JavaScript.",
+      "createdAt": "2026-01-03T10:00:00Z",
+      "id": "27",
+      "title": "Async Await Deep Dive"
+    },
+    {
+      "content": "Learn how to build responsive layouts using flexbox.",
+      "createdAt": "2026-01-04T10:00:00Z",
+      "id": "28",
+      "title": "CSS Flexbox Guide"
+    },
+    {
+      "content": "Create complex grid layouts with ease.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "id": "29",
+      "title": "CSS Grid Mastery"
+    },
+    {
+      "content": "Introduction to backend development with Node.js.",
+      "createdAt": "2026-01-06T10:00:00Z",
+      "id": "30",
+      "title": "Node.js Basics"
+    },
+    {
+      "content": "Understanding routing in Express applications.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "id": "31",
+      "title": "Express.js Routing"
+    },
+    {
+      "content": "Learn how to perform basic database operations.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "id": "32",
+      "title": "MongoDB CRUD Operations"
+    },
+    {
+      "content": "How REST architecture works in web development.",
+      "createdAt": "2026-01-09T10:00:00Z",
+      "id": "33",
+      "title": "Understanding REST APIs"
+    },
+    {
+      "content": "Secure your APIs using JSON Web Tokens.",
+      "createdAt": "2026-01-10T10:00:00Z",
+      "id": "34",
+      "title": "Authentication with JWT"
+    },
+    {
+      "content": "Tips to avoid unnecessary re-renders.",
+      "createdAt": "2026-01-11T10:00:00Z",
+      "id": "35",
+      "title": "React Performance Optimization"
+    },
+    {
+      "content": "Step-by-step guide to implement infinite scrolling.",
+      "createdAt": "2026-01-12T10:00:00Z",
+      "id": "36",
+      "title": "Building Infinite Scroll"
+    }
+  ]
+}
