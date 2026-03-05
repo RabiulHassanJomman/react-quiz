@@ -61,7 +61,7 @@ h4 {
   }
 }
 
-.infinite-scroll-component {
+.videos {
   width: 100%;
   display: grid;
   margin: 3rem auto;
@@ -71,7 +71,7 @@ h4 {
   row-gap: 20px;
 }
 @media only screen and (max-width: 600px) {
-  .infinite-scroll-component {
+  .videos {
     width: 90%;
   }
 }

@@ -79,8 +79,6 @@ export default function FetchPost() {
       { threshold: 0, rootMargin: "500px" }
     );
     observer.observe(loadingRef.current);
-
-    // console.log("rendered");
     return () => observer.disconnect();
   }, [hasMore, fetchPosts]);
 

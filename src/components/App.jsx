@@ -1,15 +1,24 @@
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import "../components/styles/app.css";
-
-import FetchPost from "./FetchPost";
+import { AuthProvider } from "../contexts/AuthContext";
+import Layout from "./Layout";
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import Quiz from "./pages/Quiz";
+import Result from "./pages/Result";
+import Signup from "./pages/Signup";
+import PrivateRoute from "./PrivateRoute";
+import PublicRoute from "./PublicRoute";
 
 function App() {
   return (
     <div className="App">
-      {/* <Router>
+      <Router>
         <AuthProvider>
           <Layout>
             <Routes>
-              <Route path="/" element={<Home />} /><Route
+              <Route path="/" element={<Home />} />
+              <Route
                 path="/login"
                 element={
                   <PublicRoute>
@@ -26,7 +35,7 @@ function App() {
                 }
               />
               <Route
-                path="/quiz"
+                path="/quiz/:id"
                 element={
                   <PrivateRoute>
                     <Quiz />
@@ -44,10 +53,7 @@ function App() {
             </Routes>
           </Layout>
         </AuthProvider>
-      </Router> */}
-
-      {/* <InfiniteScroll/> */}
-      <FetchPost />
+      </Router>
     </div>
   );
 }
