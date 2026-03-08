@@ -322,6 +322,20 @@
               "title": "Traversy Media"
             }
           ]
+        },
+        {
+          "title": "Who is the instructor/creator of this React tutorial series?",
+          "options": [
+            {
+              "title": "Learn with Sumit"
+            },
+            {
+              "title": "FreeCodeCamp"
+            },
+            {
+              "title": "Traversy Media"
+            }
+          ]
         }
       ]
     },

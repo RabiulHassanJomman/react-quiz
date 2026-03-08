@@ -67,7 +67,7 @@ export default function useVideoList() {
           fetchVideos();
         }
       },
-      { threshold: 1 },
+      { threshold: 0 },
     );
     observer.observe(loadingRef.current);
     return () => observer.disconnect();
