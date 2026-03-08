@@ -1,4 +1,4 @@
-import { getDatabase, ref, set } from "firebase/database";
+import { getDatabase, ref, update } from "firebase/database";
 import lod from "lodash";
 import { useEffect, useReducer, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
@@ -34,10 +34,10 @@ const reducer = (state, action) => {
 
 export default function Quiz() {
   // ===== Hooks =====
-  const { id } = useParams();
+  const { videoID } = useParams();
   const navigate = useNavigate();
   const { currentUser } = UseAuth();
-  const { questions, loading, error } = useQuiz(id);
+  const { questions, loading, error } = useQuiz(videoID);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [qna, dispatch] = useReducer(reducer, []);
 
@@ -82,11 +82,11 @@ export default function Quiz() {
     const db = getDatabase(app);
     const resultRef = ref(db, `result/${uid}`);
 
-    await set(resultRef, {
-      [id]: qna,
+    await update (resultRef, {
+      [videoID]: qna,
     });
 
-    navigate({ pathname: `/result/${id}`, state: { qna } });
+    navigate(`/result/${videoID}`, { state: { qna } });
   };
 
   // ===== Render =====
@@ -103,6 +103,7 @@ export default function Quiz() {
           <Answers
             options={qna[currentQuestion].options}
             handleChange={handleAnsChange}
+            input
           />
           <ProgressBar
             nextQuestion={nextQuestion}

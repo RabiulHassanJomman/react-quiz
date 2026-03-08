@@ -35,7 +35,7 @@ function App() {
                 }
               />
               <Route
-                path="/quiz/:id"
+                path="/quiz/:videoID"
                 element={
                   <PrivateRoute>
                     <Quiz />
@@ -43,7 +43,7 @@ function App() {
                 }
               />
               <Route
-                path="/result/:id"
+                path="/result/:videoID"
                 element={
                   <PrivateRoute>
                     <Result />
