@@ -1,5 +1,5 @@
-import classes from "../components/styles/layout.module.css";
 import Nav from "./Nav";
+import classes from "./styles/Layout.module.css";
 
 export default function Layout({ children }) {
   return (
