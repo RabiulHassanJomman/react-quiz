@@ -1,7 +1,7 @@
 import { getDatabase, ref, update } from "firebase/database";
 import lod from "lodash";
 import { useEffect, useReducer, useState } from "react";
-import { useNavigate, useParams } from "react-router-dom";
+import { useLocation, useNavigate, useParams } from "react-router-dom";
 import { UseAuth } from "../../contexts/AuthContext";
 import app from "../../firebase";
 import useQuiz from "../../hooks/useQuiz";
@@ -40,6 +40,8 @@ export default function Quiz() {
   const { questions, loading, error } = useQuiz(videoID);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [qna, dispatch] = useReducer(reducer, []);
+  const location = useLocation();
+  const videoTitle = location.state.videoTitle;
 
   // ===== Derived Values =====
   const percentage =
@@ -82,7 +84,7 @@ export default function Quiz() {
     const db = getDatabase(app);
     const resultRef = ref(db, `result/${uid}`);
 
-    await update (resultRef, {
+    await update(resultRef, {
       [videoID]: qna,
     });
 
@@ -111,7 +113,7 @@ export default function Quiz() {
             prevQuestion={prevQuestion}
             progress={percentage}
           />
-          <MiniPlayer />
+          <MiniPlayer videoID={videoID} title={videoTitle} />
         </>
       )}
     </div>

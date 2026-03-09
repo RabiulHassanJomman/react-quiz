@@ -3,7 +3,6 @@ import classes from "./styles/Questions.module.css";
 
 export default function Questions({ answers }) {
   const safeAnswers = Array.isArray(answers) ? answers : [];
-  console.log("safeAnswers: ", safeAnswers);
 
   return safeAnswers.map((answer, index) => (
     <div className={classes.question} key={index}>

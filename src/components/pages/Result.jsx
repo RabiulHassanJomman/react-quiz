@@ -3,27 +3,26 @@ import { useLocation, useParams } from "react-router-dom";
 import useAnswer from "../../hooks/useAnswer";
 import Analysis from "../Analysis";
 import Summary from "../Summary";
-import isEqual from "lodash/isEqual";
 
-function scoreCalc(answers = [], submittedAnswer = []) {
+function scoreCalc(answers, submittedAnswers) {
   let score = 0;
 
-  if (!Array.isArray(answers) || !Array.isArray(submittedAnswer)) {
+  if (
+    !answers ||
+    !submittedAnswers ||
+    answers.length == 0 ||
+    submittedAnswers.length == 0
+  ) {
     return score;
   }
-
-  answers.forEach((answer, index1) => {
-    const options = Array.isArray(answer?.options) ? answer.options : [];
-    const submittedOptions = Array.isArray(submittedAnswer?.[index1]?.options)
-      ? submittedAnswer[index1].options
-      : [];
-
-    options.forEach((option, index2) => {
-      const submittedOption = submittedOptions[index2];
-      if (submittedOption) option.checked = submittedOption.checked;
+  submittedAnswers.forEach((submittedAnswer, index1) => {
+    let correct = true;
+    submittedAnswer.options.forEach((option, index2) => {
+      answers[index1].options[index2].checked = option.checked;
+      if (option.checked != answers[index1].options[index2].correct)
+        correct = false;
     });
-
-    if (isEqual(options, submittedOptions)) score += 5;
+    if (correct) score += 5;
   });
 
   return score;
@@ -33,7 +32,6 @@ export default function Result() {
   const { videoID } = useParams();
   const location = useLocation();
   const qna = useMemo(() => location.state?.qna ?? [], [location.state]);
-
   const { answers, error, loading } = useAnswer(videoID);
 
   const score = useMemo(() => {
